@@ -1,0 +1,2 @@
+# lab
+creating first repository 
